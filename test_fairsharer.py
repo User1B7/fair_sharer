@@ -1,5 +1,5 @@
 import pytest
-from fair_sharer import fair_sharer
+from fairsharer import fair_sharer
 
 def test_fair_sharer():
     values = [0, 1000, 800, 0]
